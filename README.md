@@ -15,8 +15,6 @@ I'm a **vibecoder**: I describe what I want, steer AI agents, and ship real thin
 - 🎮 **Games**: mobile puzzle and arcade games, built for feel as much as for features.
 - 🧰 **Everyday programs & systems**: tools I actually use daily, like portfolio and market trackers and small automations.
 
-Most of what I build lives in private repositories for now. Public things will show up here as they are ready.
-
 ## 🛠 Toolbox
 
 <p>
